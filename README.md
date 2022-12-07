@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sathishkumar
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on ML Dev
 - 📫 How to reach me sathishkumar.pydev@gmail.com
 
 <!---
